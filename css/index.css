@@ -71,6 +71,16 @@ h1, h2, h3, h4, h5 {
    width:750px;
 }
 
+a{
+    color:black;
+    text-decoration:none;
+}
+
+.jumbo {
+    max-width:fit-content;
+    padding-top: 1em
+}
+
 p {
     line-height: 1.4;
 }
@@ -91,6 +101,7 @@ p {
 .top-content .text-container {
     width: 48%;
     padding: 0 1%;
+    padding-top: 20px;
     padding-bottom: 20px;  
 }
 
