@@ -195,7 +195,7 @@ footer nav a {
     text-decoration: none;
 }
 
-/*about page styles*/
+/*styles exclusive to about page*/
 
 .main {
     display:flex;
@@ -212,4 +212,17 @@ footer nav a {
     color:black;
     background-color: whitesmoke;
     text-shadow: 2px;
+}
+
+hr{
+    border-bottom:2px dotted;
+    margin-bottom:20px;
+}
+
+h2 {
+    margin-top: 1.5em;
+}
+
+.intro-Outro {
+    padding-bottom: 1em;
 }
