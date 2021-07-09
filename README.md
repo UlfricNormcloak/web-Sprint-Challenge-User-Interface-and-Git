@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Answer: I would tell students that semantic HTML is a best practice they should learn to practice as much as possible. Semantic HTML has important benefits such as optimizing your webpage for Search Engine Optimization (SEO), and also helps developers who may look at/edit your code in the future readily understand what you were itending to create based on a quick glance at the labels. 
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+Answer: display:block; has a line break before and after the element, whereas display:inline; does not have a line break before or after the element by default. Secondly, display:block; automatically uses the full width of the container it is within, whereas display:inline; elements only take up as much space as it needs. 
 
 3. What are the 4 areas of the box model?
 
+Answer: (From innnermost to outermost): 1. Content 2. Padding 3. Border 4. Margin
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+Answer: align-items:center; works on the CROSS axis.
+
 5. Explain why git is valuable to a team of developers.
+
+Answer: Some examples of the value of git are listed here. (1) Allows the original code to be protected before new code or updates are implemented. (2)Tracks the history of all changes to the code for reference, debugging, comparison, decisions about if/when to implement a new change that has been created. (3) Multiple developers can work on the code/sections of the code at once without interfering with the work that each is doing. (4) Total control over implementation of new code. I branch can be saved, reviewed, and then a decision to implement can be made. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
@@ -71,16 +81,16 @@ Your finished project must include all of the following requirements:
 
 You will also notice there are 10 boxes on the home page that need background colors.  Use this list below to correctly style each box:
 
-* [ ] box1: `teal`
-* [ ] box2: `gold`
-* [ ] box3: `cadetblue`
-* [ ] box4: `coral`
-* [ ] box5: `crimson`
-* [ ] box6: `forestgreen`
-* [ ] box7: `darkorchid`
-* [ ] box8: `hotpink`
-* [ ] box9: `indigo`
-* [ ] box10: `dodgerblue`
+* [X] box1: `teal`
+* [X] box2: `gold`
+* [X] box3: `cadetblue`
+* [X] box4: `coral`
+* [X] box5: `crimson`
+* [X] box6: `forestgreen`
+* [X] box7: `darkorchid`
+* [X] box8: `hotpink`
+* [X] box9: `indigo`
+* [X] box10: `dodgerblue`
 
 ### About Page
 
